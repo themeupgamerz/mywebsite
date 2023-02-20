@@ -1,0 +1,34 @@
+.container {
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  input {
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    text-align: right;
+  }
+  
+  button {
+    width: 75px;
+    height: 50px;
+    font-size: 20px;
+  }
+  
+  .number {
+    background-color: #f2f2f2;
+  }
+  
+  .operator {
+    background-color: #cccccc;
+  }
+  
+  .clear {
+    background-color: #ff0000;
+  }
+  
+  .equal {
+    background-color: #00ff00;
+  }
+  
